@@ -29,7 +29,8 @@
     <td width="50%" valign="top">
       <h3>⚽ <a href="https://footyminds.streamlit.app">FootyMinds</a></h3>
       <p>Football app for fans of the top 5 leagues. Vote on every penalty, red card and VAR call, check offsides yourself, and see who's favourite to win.</p>
-      <img alt="Live" src="https://img.shields.io/badge/live-footyminds.streamlit.app-FF5CAA?style=flat-square" />
+      <a href="https://footyminds.streamlit.app"><img alt="Live" src="https://img.shields.io/badge/live-footyminds.streamlit.app-FF5CAA?style=flat-square" /></a>
+      <a href="https://github.com/Andrewww782/matchday-lab"><img alt="Code" src="https://img.shields.io/badge/code-GitHub-1A1240?style=flat-square&logo=github&logoColor=white" /></a>
       <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-5A31F4?style=flat-square&logo=streamlit&logoColor=white" />
       <img alt="XGBoost" src="https://img.shields.io/badge/ML-XGBoost%20%C2%B7%20Dixon--Coles-5A31F4?style=flat-square" />
     </td>
